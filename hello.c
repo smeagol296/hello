@@ -15,3 +15,8 @@ int main(int argc, char **argv) {
 
   return 0;
 }
+git push -u origin main
+@github.com/LOGIN/hello.git
+git remote -v
+git remote set-url origin https://LOGIN:TOKEN@github.com/LOGIN/hello.git
+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
